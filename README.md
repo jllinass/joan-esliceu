@@ -15,4 +15,3 @@ Faré una llista de les meves assignatures:
 ###### titol 6
 
 > Això és una cita
-> Això és una altra cita
