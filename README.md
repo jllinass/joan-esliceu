@@ -1,7 +1,7 @@
 # joan-esliceu
 Aquí deix un texte amb **paraules en negreta** i *paraules en cursiva* 
 ## titol 2
-Anem a veure els meus [apunts de sistemes](01-Introduccio.md)
+Anem a veure els meus [apunts de sistemes](sistemes/Processos)
 ### titol 3
 #### titol 4
 Faré una llista de les meves assignatures:
