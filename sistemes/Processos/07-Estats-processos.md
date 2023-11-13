@@ -2,7 +2,7 @@
 
 Els processos poden passar per diversos estats durant el seu cicle de vida, i la gestió efectiva d'aquests estats és essencial per mantenir un sistema eficient i funcional. Aquí es presenten els principals estats dels processos:
 
-## 5.1 Estat Nou:
+## 5.1 Estat inici:
 
 En aquest estat, el procés acaba de ser creat i espera ser assignat a un processador.
 Les tasques associades inclouen la reserva d'espai de memòria i la inicialització de variables.
