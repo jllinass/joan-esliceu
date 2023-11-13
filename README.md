@@ -6,6 +6,7 @@ Això són els [apunts de FOL](FOL)
 Això són els [apunts de Muntatge](Muntatge)
 Això són els [apunts de Ofimàtica](ofimatica)
 Això són els [apunts de Xarxes](Xarxes)
+Això són els [apunts de Base_de_dades](Base_de_dades)
 ### titol 3
 #### titol 4
 Faré una llista de les meves assignatures:
