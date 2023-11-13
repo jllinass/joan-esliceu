@@ -1,7 +1,7 @@
 # joan-esliceu
 Aquí deix un texte amb **paraules en negreta** i *paraules en cursiva* 
 ## titol 2
-m'encanta mirar [Youtube](https://www.youtube.com/)
+Anem a veure els meus [apunts de sistemes](Processos)
 ### titol 3
 #### titol 4
 Faré una llista de les meves assignatures:
