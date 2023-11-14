@@ -10,3 +10,12 @@ Desavantatges:
 
 Manca d'optimització: No sempre és l'opció més eficient en termes de temps d'espera.
 Problemes d'injustícia: Processos llargs poden bloquejar processos més curts que arribin.
+
+## Més informació:
+- [Introducció](01%CC%A3-Introduccio.md)
+- [Què són els processos?](02-Que-son-els-processos.md)
+- [Components dels processos](03-Components-processos.md)
+- [Planificació de processos](04-Planificacio-de-processos.md)
+- [Round Robin](06-Round-Robin.md)
+- [Estats dels processos](07-Estats-processos.md)
+- [Execució de processos](08-Execucio-processos.md)

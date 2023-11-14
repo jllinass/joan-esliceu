@@ -26,3 +26,12 @@ Un procés passa a aquest estat quan ha completat totes les seves tasques i s'ha
 El sistema operatiu allibera els recursos associats a aquest procés.
 
 ![Esquema!](Estats_d'un_procés.png "Esquema dels estats:")
+
+## Més informació:
+- [Introducció](01%CC%A3-Introduccio.md)
+- [Què són els processos?](02-Que-son-els-processos.md)
+- [Components dels processos](03-Components-processos.md)
+- [Planificació de processos](04-Planificacio-de-processos.md)
+- [FIFO](05-FIFO.md)
+- [Round Robin](06-Round-Robin.md)
+- [Execució de processos](08-Execucio-processos.md)
