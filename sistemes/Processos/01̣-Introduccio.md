@@ -10,3 +10,7 @@ La gestió de processos és una part essencial de l'administració de sistemes m
 - [Round Robin](06-Round-Robin.md)
 - [Estats dels processos](07-Estats-processos.md)
 - [Execució de processos](08-Execucio-processos.md)
+
+### Tornar a la pàgina principal
+
+[Tornar](../../README.md)
