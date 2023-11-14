@@ -10,3 +10,7 @@ Els processos estan formats per diversos components, que inclouen el codi execut
 - [Round Robin](06-Round-Robin.md)
 - [Estats dels processos](07-Estats-processos.md)
 - [Execució de processos](08-Execucio-processos.md)
+
+### Tornar a la pàgina principal
+
+[Tornar](../../README.md)

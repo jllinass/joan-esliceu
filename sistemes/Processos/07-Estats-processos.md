@@ -35,3 +35,7 @@ El sistema operatiu allibera els recursos associats a aquest procés.
 - [FIFO](05-FIFO.md)
 - [Round Robin](06-Round-Robin.md)
 - [Execució de processos](08-Execucio-processos.md)
+
+### Tornar a la pàgina principal
+
+[Tornar](../../README.md)

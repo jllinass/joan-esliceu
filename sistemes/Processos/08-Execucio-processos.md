@@ -36,3 +36,7 @@ Quan un procés ha completat totes les seves tasques, passa a l'estat "Finalitza
 - [FIFO](05-FIFO.md)
 - [Round Robin](06-Round-Robin.md)
 - [Estats dels processos](07-Estats-processos.md)
+
+### Tornar a la pàgina principal
+
+[Tornar](../../README.md)

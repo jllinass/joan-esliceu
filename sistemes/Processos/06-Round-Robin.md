@@ -19,3 +19,7 @@ Temps d'espera potencial: Alguns processos poden esperar més temps del que seri
 - [FIFO](05-FIFO.md)
 - [Estats dels processos](07-Estats-processos.md)
 - [Execució de processos](08-Execucio-processos.md)
+
+### Tornar a la pàgina principal
+
+[Tornar](../../README.md)
