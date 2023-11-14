@@ -27,3 +27,12 @@ Aquests canvis d'estat es gestionen pel sistema operatiu mitjançant crides al s
 ## 6.6 Finalització:
 
 Quan un procés ha completat totes les seves tasques, passa a l'estat "Finalitzat". En aquest punt, el sistema operatiu allibera els recursos associats al procés, com ara memòria i handles d'arxius. Comprendre aquest cicle d'execució és essencial per als administradors de sistemes, ja que els permet gestionar eficientment els recursos del sistema i assegurar-se que els processos s'executen de manera coherent i sense problemes.
+
+## Més informació:
+- [Introducció](01%CC%A3-Introduccio.md)
+- [Què són els processos?](02-Que-son-els-processos.md)
+- [Components dels processos](03-Components-processos.md)
+- [Planificació de processos](04-Planificacio-de-processos.md)
+- [FIFO](05-FIFO.md)
+- [Round Robin](06-Round-Robin.md)
+- [Estats dels processos](07-Estats-processos.md)
